@@ -1,0 +1,28 @@
+server:
+  port: 8080
+
+spring:
+  cloud:
+    nacos:
+      discovery:
+        service: order-serv
+      server-addr: 192.168.83.190:8848
+      config:
+        file-extension: yml
+        server-addr: 192.168.83.190:8848
+        shared-configs[0]:
+          data_id: mq.yml
+          refresh: true
+    sentinel:
+      transport:
+        dashboard: 192.168.83.190:8081
+  profiles:
+      active:
+  application:
+    name: eshop-order-serv
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

@@ -1,0 +1,10 @@
+#spring:
+#  cloud:
+#    nacos:
+#      config:
+#        file-extension: yml
+#        server-addr: 192.168.83.190:8848
+#  profiles:
+#    active: dev
+#  application:
+#    name: eshop-order-serv

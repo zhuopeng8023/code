@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d08df26-3241-4db8-9ca8-f8da3a22a8d7" name="Default Changelist" comment="" />
+    <list id="a81aa85a-07d5-4f9c-a095-30ac8d21d827" name="Revert &quot;version 1.0&quot;" comment="Revert &quot;version 1.0&quot;&#10;&#10;This reverts commit 50646722">
+      <change beforePath="$PROJECT_DIR$/../dcca-core/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/src/main/java/com/zhss/bean/DispatchHanlderContrl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/src/main/java/com/zhss/bean/Uwap302HandlerContrl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/src/main/java/com/zhss/bean/Uwap502HandlerContrl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/src/main/java/com/zhss/bean/UwapMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/target/classes/com/zhss/bean/DispatchHanlderContrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/target/classes/com/zhss/bean/Uwap302HandlerContrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/target/classes/com/zhss/bean/Uwap502HandlerContrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcca-core/target/classes/com/zhss/bean/UwapMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/src/main/java/com/zhss/OrderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/src/main/java/com/zhss/api/IOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/src/main/java/com/zhss/service/OrderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/classes/com/zhss/OrderApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/classes/com/zhss/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/classes/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/eshop-order-serv-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/src/main/java/com/zhss/ProductApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/src/main/java/com/zhss/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/classes/com/zhss/ProductApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/classes/com/zhss/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/classes/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/eshop-product-serv-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../little-project-rocketmq" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-alibaba-commons/2.2.5.RELEASE/spring-cloud-alibaba-commons-2.2.5.RELEASE.jar!/com/alibaba/cloud/commons/io/FileUtils.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="failureBehavior" value="FAST" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../tools/apache-maven-3.8.1-bin/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="C:\tools\apache-maven-3.8.1-bin\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1tCCWM4ROMpQ6KBxnthvllQcTIx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/eshop-product-serv/src/main/java/com/zhss" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eshop-order-serv/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\eshop-parent\eshop-order-serv\src\main\resources" />
+      <recent name="C:\workspace\eshop-parent\eshop-product-serv\src\main\resources" />
+      <recent name="C:\workspace\eshop-parent" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProductApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="eshop-order-serv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhss.OrderApplication" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="eshop-product-serv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhss.ProductApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.ProductApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.ProductApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d08df26-3241-4db8-9ca8-f8da3a22a8d7" name="Default Changelist" comment="" />
+      <created>1622263719517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622263719517</updated>
+      <workItem from="1622263720725" duration="937000" />
+      <workItem from="1622264723820" duration="407000" />
+      <workItem from="1622265215636" duration="748000" />
+      <workItem from="1622266058583" duration="1024000" />
+      <workItem from="1622267157355" duration="819000" />
+      <workItem from="1622268055962" duration="1031000" />
+      <workItem from="1622269140584" duration="208000" />
+      <workItem from="1622269405673" duration="1855000" />
+      <workItem from="1622271345119" duration="6194000" />
+      <workItem from="1622278147245" duration="1345000" />
+      <workItem from="1622279564426" duration="1525000" />
+      <workItem from="1622281170408" duration="2053000" />
+      <workItem from="1622283300584" duration="2146000" />
+      <workItem from="1622285546654" duration="6454000" />
+      <workItem from="1622333421046" duration="4339000" />
+      <workItem from="1622337916936" duration="915000" />
+      <workItem from="1622338864420" duration="21482000" />
+      <workItem from="1622811175334" duration="3077000" />
+      <workItem from="1622816678034" duration="55000" />
+      <workItem from="1622816786427" duration="856000" />
+      <workItem from="1622817761908" duration="204000" />
+      <workItem from="1622817993556" duration="531000" />
+      <workItem from="1622818634774" duration="280000" />
+      <workItem from="1622819014806" duration="702000" />
+      <workItem from="1622819747331" duration="205000" />
+      <workItem from="1622820095553" duration="39000" />
+      <workItem from="1622857975622" duration="1311000" />
+      <workItem from="1622964417802" duration="5390000" />
+      <workItem from="1623133869283" duration="1861000" />
+      <workItem from="1623328213945" duration="1084000" />
+      <workItem from="1623373029162" duration="3098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassNotFoundException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
