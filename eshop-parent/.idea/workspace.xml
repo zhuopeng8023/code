@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d08df26-3241-4db8-9ca8-f8da3a22a8d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7d08df26-3241-4db8-9ca8-f8da3a22a8d7" name="Default Changelist" comment="" />
     <list id="a81aa85a-07d5-4f9c-a095-30ac8d21d827" name="Revert &quot;version 1.0&quot;" comment="Revert &quot;version 1.0&quot;&#10;&#10;This reverts commit 50646722" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +163,7 @@
       <workItem from="1623328213945" duration="1084000" />
       <workItem from="1623373029162" duration="3541000" />
       <workItem from="1623380799311" duration="165000" />
-      <workItem from="1623381465170" duration="4235000" />
+      <workItem from="1623381465170" duration="4541000" />
     </task>
     <task id="LOCAL-00001" summary="init 3">
       <created>1623393223732</created>
@@ -188,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623396180281</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init master log">
+      <created>1623397363557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623397363557</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
