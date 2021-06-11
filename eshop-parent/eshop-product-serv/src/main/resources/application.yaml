@@ -1,0 +1,8 @@
+server:
+  port: 9002
+spring:
+  cloud:
+    nacos:
+      discovery:
+        service: product-serv
+      server-addr: 192.168.83.190:8848

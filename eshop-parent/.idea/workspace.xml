@@ -5,63 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d08df26-3241-4db8-9ca8-f8da3a22a8d7" name="Default Changelist" comment="" />
-    <list id="a81aa85a-07d5-4f9c-a095-30ac8d21d827" name="Revert &quot;version 1.0&quot;" comment="Revert &quot;version 1.0&quot;&#10;&#10;This reverts commit 50646722">
-      <change beforePath="$PROJECT_DIR$/../dcca-core/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/src/main/java/com/zhss/bean/DispatchHanlderContrl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/src/main/java/com/zhss/bean/Uwap302HandlerContrl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/src/main/java/com/zhss/bean/Uwap502HandlerContrl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/src/main/java/com/zhss/bean/UwapMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/target/classes/com/zhss/bean/DispatchHanlderContrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/target/classes/com/zhss/bean/Uwap302HandlerContrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/target/classes/com/zhss/bean/Uwap502HandlerContrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcca-core/target/classes/com/zhss/bean/UwapMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/src/main/java/com/zhss/OrderApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/src/main/java/com/zhss/api/IOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/src/main/java/com/zhss/service/OrderServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/src/main/resources/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/src/main/resources/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/classes/com/zhss/OrderApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/classes/com/zhss/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/classes/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/eshop-order-serv-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-order-serv/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/src/main/java/com/zhss/ProductApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/src/main/java/com/zhss/controller/ProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/src/main/resources/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/src/main/resources/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/classes/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/classes/com/zhss/ProductApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/classes/com/zhss/controller/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/classes/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/eshop-product-serv-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop-product-serv/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../little-project-rocketmq" beforeDir="false" />
-    </list>
+    <list id="a81aa85a-07d5-4f9c-a095-30ac8d21d827" name="Revert &quot;version 1.0&quot;" comment="Revert &quot;version 1.0&quot;&#10;&#10;This reverts commit 50646722" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,15 +33,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-alibaba-commons/2.2.5.RELEASE/spring-cloud-alibaba-commons-2.2.5.RELEASE.jar!/com/alibaba/cloud/commons/io/FileUtils.class" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="failureBehavior" value="FAST" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../tools/apache-maven-3.8.1-bin/apache-maven-3.8.1" />
-        <option name="userSettingsFile" value="C:\tools\apache-maven-3.8.1-bin\apache-maven-3.8.1\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
@@ -135,15 +70,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ProductApplication">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -228,7 +161,9 @@
       <workItem from="1622964417802" duration="5390000" />
       <workItem from="1623133869283" duration="1861000" />
       <workItem from="1623328213945" duration="1084000" />
-      <workItem from="1623373029162" duration="3098000" />
+      <workItem from="1623373029162" duration="3541000" />
+      <workItem from="1623380799311" duration="165000" />
+      <workItem from="1623381465170" duration="434000" />
     </task>
     <servers />
   </component>
@@ -243,6 +178,47 @@
         <option value="Default.Date" />
         <option value="Default.Subject" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="605ed97c-70a4-45be-8cee-87220ce02a04">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/workspace/eshop-parent" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="605ed97c-70a4-45be-8cee-87220ce02a04" value="TOOL_WINDOW" />
+      </map>
     </option>
   </component>
   <component name="XDebuggerManager">

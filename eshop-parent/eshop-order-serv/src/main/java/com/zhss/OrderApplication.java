@@ -21,5 +21,7 @@ public class OrderApplication {
     }
     public static void main(String[] args) {
         SpringApplication.run(OrderApplication.class);
+
+        new Thread(() -> System.out.println("run")).start();
     }
 }
