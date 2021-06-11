@@ -29,7 +29,7 @@ public class OrderController {
      @GetMapping("/order/create")
      public String createOrder(Integer productId,Integer userId){
          //String productName = restTemplate.getForObject("http://product-serv/product/getProName",String.class);
-         //log.info("running orderController ----- > {}",confValue);
+         log.info("running orderController ----- > 2 {}",confValue);
          return "success";
      }
 
